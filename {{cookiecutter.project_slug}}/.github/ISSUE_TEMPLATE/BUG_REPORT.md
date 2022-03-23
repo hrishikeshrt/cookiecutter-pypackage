@@ -1,3 +1,11 @@
+---
+name: Bug Report
+about: Use this template for reporting a bug
+title: "BUG: [INFORMATIVE TITLE]"
+labels: bug
+assignees: ''
+---
+
 * {{ cookiecutter.project_name }} version:
 * Python version:
 * Operating System:
